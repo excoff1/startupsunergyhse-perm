@@ -1,0 +1,24 @@
+p {
+	color: black;
+	width: auto;
+	height: auto;	
+	font-family: monospace;
+	text-align: center;
+	text-indent: 20px;}
+button {
+	padding: 20px 50px;
+	outline : none;
+	border: none;
+	border-radius: 25px;
+	background-color: lightsalmon;
+	cursor: pointer;
+	color: white;
+	font-weight: 600;
+	font-size: 20px;
+	letter-spacing: 2px;
+	box-shadow: 0px 5px 10px #000;
+}
+body {
+	background: url(photo_2024-05-16_23-47-20.jpg);
+	
+}
